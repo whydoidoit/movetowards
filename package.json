@@ -1,0 +1,22 @@
+{
+  "name": "playcanvas-movetowards",
+  "version": "1.0.0",
+  "description": "Functions and PlayCanvas extensions to move a number, a vector or a quaternion towards a target value over frames",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whydoidoit/movetowards.git"
+  },
+  "keywords": [
+    "PlayCanvas"
+  ],
+  "author": "Mike Talbot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/whydoidoit/movetowards/issues"
+  },
+  "homepage": "https://github.com/whydoidoit/movetowards#readme"
+}

@@ -17,5 +17,5 @@ const Utils = {
 
 pc.extend(pc.utils, Utils)
 
-export default Utils
+export default Utils.moveTowards
 
